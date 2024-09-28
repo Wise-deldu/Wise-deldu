@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Backend**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: delduwise@gmail.com </h3>
 <p align="left">
 </p>
 
