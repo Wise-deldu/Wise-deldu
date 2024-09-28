@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Backend**
 - Connect with me: delduwise@gmail.com
 
-<h4 align="left">Connect with me: delduwise@gmail.com </h3>
 <p align="left">
 </p>
 
