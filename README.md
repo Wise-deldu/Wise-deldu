@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Wise Duho</h1>
 <h3 align="center">A Software Engineer</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wise-deldu" alt="wise-deldu" /></a> </p>
-
 - 🌱 I’m currently learning **Backend**
 
 <h3 align="left">Connect with me:</h3>
