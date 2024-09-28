@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Wise Duho</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A Software Engineer/Embedded Engineer</h3>
 
 - 🌱 I’m currently learning **Backend**
+- Connect with me: delduwise@gmail.com
 
-<h3 align="left">Connect with me: delduwise@gmail.com </h3>
+<h4 align="left">Connect with me: delduwise@gmail.com </h3>
 <p align="left">
 </p>
 
