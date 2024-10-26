@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 Fullstack Software Engineer
 - Connect with me: delduwise@gmail.com
+- Hobby: Playing Guitar 🎸
 
 <p align="left">
 </p>
