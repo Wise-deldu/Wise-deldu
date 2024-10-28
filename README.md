@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Wise Duho</h1>
+<h1 align="center">Hello 👋, I'm Wise Duho</h1>
 <h3 align="center"> Full Stack Engineer/Software Engineer/Embedded Systems Engineer</h3>
 
 - 🌱 Fullstack Software Engineer
