@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello 👋, I'm Wise Duho</h1>
-<h3 align="center"> Full Stack Engineer/Software Engineer/Embedded Systems Engineer</h3>
+<h3 align="center"> Full Stack Engineer/Embedded Systems Engineer</h3>
 
 - 🌱 Fullstack Software Engineer
 - Connect with me: delduwise@gmail.com
